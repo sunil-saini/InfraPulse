@@ -130,5 +130,6 @@ Kubernetes contexts can be switched directly from the popover
 
 ```bash
 brew uninstall --cask --zap sunil-saini/tools/infrapulse
+rm -f ~/Library/Caches/Homebrew/Cask/infrapulse--*.zip
 brew untap sunil-saini/tools
 ```
