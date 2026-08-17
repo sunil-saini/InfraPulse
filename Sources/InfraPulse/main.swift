@@ -1,0 +1,2 @@
+SingleInstanceGuard.acquireOrExit()
+InfraPulseApp.main()

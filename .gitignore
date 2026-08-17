@@ -1,0 +1,28 @@
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Carthage/Checkouts
+
+Carthage/Build/
+
+# Local signing and notarization material
+*.p12
+*.cer
+*.mobileprovision
+
+
+.build/
+.DS_Store
+.vscode/
